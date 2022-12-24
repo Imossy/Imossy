@@ -8,7 +8,7 @@
 </div> <br>
 
 ![Marcos Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-adsj&show_icons=true&theme=radical)
-#### I only use this profile for studying and stealing projects <3
+#### I only use this profile for studying and stealing projects ❤️
 
 ## Technologies I am studying and learning at the moment 👨‍💻:
 <div style="display: inline_block"><br/>
