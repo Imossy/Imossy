@@ -1,6 +1,5 @@
 ### Hi! I'm Marcos Junior 👋
-#### I'm studying information technology at college and I'm recently starting to learn programming and its languages.
-####### test
+### I'm studying information technology at college and I'm recently starting to learn programming and its languages.
 
 <div style="display: inline_block"><br/>
 <a href="mailto:madsj0304@gmail.com"><img align="center" alt="html" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -9,6 +8,7 @@
 </div> <br>
 
 ![Marcos Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-adsj&show_icons=true&theme=radical)
+#### I only use this profile for studying and stealing projects <3
 
 ## Technologies I am studying and learning at the moment 👨‍💻:
 <div style="display: inline_block"><br/>
