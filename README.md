@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/marcos10junior"><img align="center" alt="html" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div> <br>
 
-![Marcos Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-adsj&show_icons=true&theme=radical)
+![Marcos Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Imossy&show_icons=true&theme=radical)
 #### I only use this profile for studying and stealing projects ❤️
 
 ## Technologies I am studying and learning at the moment 👨‍💻:
